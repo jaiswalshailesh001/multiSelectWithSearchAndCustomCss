@@ -1,0 +1,41 @@
+.close-span{
+    padding: 5px;
+    background-color: blue;
+    color: white;
+    border-radius: 2px;
+    font-size: 12px;
+    position: relative;
+    padding-left: 23px;
+    margin-right: 5px;
+   }
+   
+   .span-wrapper{
+       margin-bottom: 10px;;
+   }
+   
+   .container{
+       width: 50%;
+       margin:0 auto;
+   }
+   
+   .mat-card{
+       border: 1px solid black;
+       width: 33%;
+       margin: 10px;
+   }
+
+   .tr{
+       text-align: right;
+   }
+   .red{
+       background-color: red;
+   }
+   
+   .green{
+       background-color: green;
+   }
+
+   .blue{
+       background-color: blue;
+   }
+   
